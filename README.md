@@ -56,8 +56,7 @@ On the web side I work with **Next.js, React, TypeScript, Go and Django**. On th
 
 ## 🚀 Featured Projects
 
-> Real products solving real problems —
-> shipped, deployed, and used in production.
+Real products solving real problems — shipped, deployed, and used in production.
 
 ---
 
@@ -210,10 +209,10 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="48" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="48" alt="Django REST" />
+  <img src="https://api.iconify.design/simple-icons:django.svg?color=%23ffffff" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" height="48" alt="Django REST" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wails.svg" height="40" alt="Wails" style="background-color: #E53E3E; padding: 5px; border-radius: 6px;"/>
+  <img src="https://api.iconify.design/simple-icons:wails.svg?color=%23E53E3E" height="48" alt="Wails" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
 </p>
 
@@ -235,7 +234,8 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="48" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stripe.svg" width="40" height="40" alt="Stripe" style="background-color: #635BFF; padding: 4px; border-radius: 4px;" />
+  <img src="https://api.iconify.design/logos:stripe.svg" height="48" alt="Stripe" />
+
 </p>
 
 <p align="center"><strong>Deployment</strong></p>
@@ -254,19 +254,21 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <tr>
     <td align="center" style="padding: 10px 25px; max-width: 260px; vertical-align: top;">
       <a href="https://cs50.harvard.edu/certificates/c2065df7-4668-495c-b256-443e35299774"><img src="assets/certifications/CS50W.webp" alt="CS50W Certificate" width="260" /></a>
-      <div style="margin-top: 8px;"><strong>CS50W</strong></div>
+      <div style="margin-top: 8px;"><strong> Harvard — CS50W</strong></div>
       <div style="text-align: center; font-size: 0.9em; color: #8b949e; margin-top: 4px;">Web Programming with Python and JavaScript</div>
     </td>
     <td align="center" style="padding: 10px 25px; max-width: 260px; vertical-align: top;">
       <a href="https://cs50.harvard.edu/certificates/1b81b099-a98e-44e6-a148-adad6227ec06"><img src="assets/certifications/CS50AI.webp" alt="CS50AI Certificate" width="260" /></a>
-      <div style="margin-top: 8px;"><strong>CS50AI</strong></div>
+      <div style="margin-top: 8px;"><strong>Harvard — CS50AI</strong></div>
       <div style="text-align: center; font-size: 0.9em; color: #8b949e; margin-top: 4px;">Introduction to Artificial Intelligence with Python</div>
     </td>
     <td align="center" style="padding: 10px 25px; max-width: 260px; vertical-align: top;">
       <a href="https://www.coursera.org/verify/5CQLXCFCN4ER"><img src="assets/certifications/GoogleDocker.webp" alt="Google Docker Certificate" width="260" /></a>
-      <div style="margin-top: 8px;"><strong>Google Docker</strong></div>
+      <div style="margin-top: 8px;"><strong>Coursera - Google Docker</strong></div>
       <div style="text-align: center; font-size: 0.9em; color: #8b949e; margin-top: 4px;">Docker Certification</div>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px 25px; max-width: 260px; vertical-align: top;">
       <img src="assets/certifications/InspiritAI.webp" alt="InspiritAI" width="260" />
       <div style="margin-top: 8px;"><strong>InspiritAI</strong></div>
