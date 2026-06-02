@@ -209,10 +209,10 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="48" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
-  <img src="https://api.iconify.design/simple-icons:django.svg?color=%23ffffff" height="48" alt="Django" />
+  <img src="https://api.iconify.design/simple-icons:django.svg?color=%23ffffff" width="48" height="48" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" height="48" alt="Django REST" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" />
-  <img src="https://api.iconify.design/simple-icons:wails.svg?color=%23E53E3E" height="48" alt="Wails" />
+  <img src="https://api.iconify.design/simple-icons:wails.svg?color=%23E53E3E" width="48" height="48" alt="Wails" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
 </p>
 
@@ -234,7 +234,7 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="48" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-  <img src="https://api.iconify.design/logos:stripe.svg" height="48" alt="Stripe" />
+  <img src="https://api.iconify.design/logos:stripe.svg" width="48" height="48" alt="Stripe" />
 
 </p>
 
