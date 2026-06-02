@@ -1,5 +1,8 @@
 <!--   typing SVG header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Juan+Avelar;Full+Stack+%26+ML+Engineer;Building+real+products+that+solve+real+problems;Kaggle+practitioner+%7C+CS50+Certified)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Juan Vasquez</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Juan+Vasquez;Full+Stack+%26+ML+Engineer;Building+real+products+that+solve+real+problems;Kaggle+practitioner+%7C+CS50+Certified)](https://github.com/juanavelar87)
 
 
 <p align="center">
@@ -11,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go - Privacy Systems Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Privacy%20Systems%20Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Data%20Alchemy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-Systems%20Architect-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning%20Forge-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -26,9 +29,35 @@
 
 ---
 
-## Projects solving real life problems
+## 👋 About Me
 
-> These are the projects I'm most proud of.
+Full-stack engineer from Mexico, working where web development meets AI. What I really enjoy is getting AI out of notebooks and into products people actually use — most ML never makes it past a demo, and I like building the part that does.
+
+On the web side I work with **Next.js, React, TypeScript, Go and Django**. On the AI side it's **PyTorch, CLIP, embeddings and vectorization**, plus the usual data tooling (Polars, Pandas, NumPy). The interesting work is in between: wiring a model into a real app with FastAPI, Postgres and Docker so it actually ships.
+
+- 🏆 CS50 & CS50AI certified, and a regular on Kaggle
+- 🌎 Spanish (native), English (C1)
+- 💬 Happy to talk about taking ML ideas from notebook to production, deep learning architectures, and modern web development.
+
+## 📫 Reach Me
+
+<p align="left">
+  <a href="mailto:juanyael.va@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/juanyaelva" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 🚀 Featured Projects
+
+> Real products solving real problems —
+> shipped, deployed, and used in production.
 
 ---
 
@@ -42,12 +71,12 @@
 **Allium Server**<br>
 2026
 
-A self-hosted Google Photos alternative that routes everything through the TOR network for full privacy and simplicty. Built as a Go CLI/GUI tool — you own your data, your server, your keys.
+A self-hosted Google Photos alternative that routes everything through the TOR network for full privacy and simplicity. Built as a Go CLI/GUI tool — you own your data, your server, your keys.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Cobra](https://img.shields.io/badge/-Cobra_CLI-000000?style=flat&logo=go&logoColor=36BCF7) ![Govips](https://img.shields.io/badge/-Govips-008080?style=flat&logo=go&logoColor=00ADD8) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Wails](https://img.shields.io/badge/-Wails-red?style=flat&logo=wails&logoColor=white)
 
-[![Allium Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/[blank])
-[![Download](https://img.shields.io/badge/Download-Allium%20Server-36BCF7?style=for-the-badge&logo=download&logoColor=white)]([blank])
+[![Allium Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/AlliumServer)
+[![Download](https://img.shields.io/badge/Download-Allium%20Server-36BCF7?style=for-the-badge&logo=download&logoColor=white)](https://github.com/juanavelar87/AlliumServer/tree/master/src)
 
 </td>
 <td width="50%" valign="top">
@@ -61,8 +90,8 @@ The companion mobile app to connect to your Allium server, fetch, and cache your
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white)
 
-[![Allium App Repo](https://img.shields.io/badge/GitHub-Allium%20App-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/[blank])
-[![Play Store](https://img.shields.io/badge/Play%20Store-Visit-3DDC84?style=for-the-badge&logo=android&logoColor=white)]([blank])
+[![Allium App Repo](https://img.shields.io/badge/GitHub-Allium%20App-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/AlliumApp)
+<!-- [![Play Store](https://img.shields.io/badge/Play%20Store-Visit-3DDC84?style=for-the-badge&logo=android&logoColor=white)]([blank]) -->
 
 </td>
 </tr>
@@ -76,9 +105,9 @@ The companion mobile app to connect to your Allium server, fetch, and cache your
 
 My first major project — and the one that started everything. A full-featured POS system built from the ground up with Django, HTML, CSS, and vanilla JS.
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live-checkit.demo-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)]([blank])
+[![Live Demo](https://img.shields.io/badge/Live-checkit.demo-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://checkitnow.com.mx)
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +120,7 @@ My first major project — and the one that started everything. A full-featured 
 
 For people who genuinely don't know what clothes to gift someone. Uses image vectorization to infer the recipient's style (no LLM behind it) and suggests the right gift. Built with Next.js.
 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-131B2A?style=flat&logo=polars&logoColor=F5A623) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)![OpenAI CLIP](https://img.shields.io/badge/-OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-131B2A?style=flat&logo=polars&logoColor=F5A623) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![OpenAI CLIP](https://img.shields.io/badge/-OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black) 
 
 [![Live Demo](https://img.shields.io/badge/Live-idkwhattogift.com-36BCF7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://idkwhattogift.com/en)
 
@@ -269,7 +298,20 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
 
 [![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=30164&days=30&limit=6&theme=light)](https://codetime.dev)
 
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=30164&days=90&theme=light)](https://codetime.dev)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanavelar87&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=36BCF7&title_color=0284c7" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanavelar87&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=0284c7" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=juanavelar87&hide_border=true&theme=default&ring=36BCF7&fire=0284c7&currStreakLabel=0284c7" alt="GitHub streak" />
+</p>
 
 <!-- GitHub contribution snake — generada por el workflow .github/workflows/snake.yml -->
 <picture>
@@ -278,26 +320,3 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/juanavelar87/juanavelar87/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
-[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=30164&days=90&theme=light)](https://codetime.dev)
-
----
-
-## 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:juanyael.va@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/juanyaelva" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/juanavelar87/count.svg" alt="visitor count" />
-</p>
