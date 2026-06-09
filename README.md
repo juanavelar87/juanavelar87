@@ -54,7 +54,7 @@ On the web side I work with **Next.js, React, TypeScript, Go and Django**. On th
 
 ---
 
-## 🚀 Featured Projects
+## What I built
 
 Real products solving real problems — shipped, deployed, and used in production.
 
@@ -117,7 +117,7 @@ My first major project — and the one that started everything. A full-featured 
 **Idk What to Gift**<br>
 2026
 
-For people who genuinely don't know what clothes to gift someone. Uses image vectorization to infer the recipient's style (no LLM behind it) and suggests the right gift. Built with Next.js.
+For people who genuinely don't know what clothes to gift someone. Uses image vectorization to infer the recipient's style (no LLM behind it) and suggests the right gift. Built the Next.js website.
 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-131B2A?style=flat&logo=polars&logoColor=F5A623) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![OpenAI CLIP](https://img.shields.io/badge/-OpenAI_CLIP-412991?style=flat&logo=openai&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black) 
 
@@ -134,7 +134,7 @@ For people who genuinely don't know what clothes to gift someone. Uses image vec
 **Congrats**<br>
 2025
 
-An end-to-end platform for organizing graduation ceremonies — attendees, logistics, communications. React + Vite frontend, Django backend, JWT authentication.
+An end-to-end platform for organizing graduation ceremonies — attendees, logistics, communications. React + Vite frontend, Django backend, JWT authentication. Built the frontend and parts of the backend.
 
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/-Django_REST-A30000?style=flat&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=D63AFF) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Render](https://img.shields.io/badge/-Render-000000?style=flat&logo=render&logoColor=46E3B7) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
@@ -302,20 +302,6 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
 
 [![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=30164&days=90&theme=light)](https://codetime.dev)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanavelar87&show_icons=true&count_private=true&hide_border=true&theme=default&icon_color=36BCF7&title_color=0284c7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanavelar87&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=0284c7" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=juanavelar87&hide_border=true&theme=default&ring=36BCF7&fire=0284c7&currStreakLabel=0284c7" alt="GitHub streak" />
-</p>
-
-<!-- GitHub contribution snake — generada por el workflow .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanavelar87/juanavelar87/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanavelar87/juanavelar87/output/github-contribution-grid-snake.svg" />
