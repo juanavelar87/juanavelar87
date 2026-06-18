@@ -33,7 +33,7 @@
 
 Full-stack engineer from Mexico, working where web development meets AI. What I really enjoy is getting AI out of notebooks and into products people actually use — most ML never makes it past a demo, and I like building the part that does.
 
-On the web side I work with **Next.js, React, TypeScript, Go and Django**. On the AI side it's **PyTorch, CLIP, embeddings and vectorization**, plus the usual data tooling (Polars, Pandas, NumPy). The interesting work is in between: wiring a model into a real app with FastAPI, Postgres and Docker so it actually ships.
+On the web side I work with **Next.js, React, TypeScript, Go and Django**. On the AI side it's **PyTorch, CLIP, embeddings and vectorization**, plus the usual data tooling (Polars, Pandas, NumPy). The interesting work is in between: wiring a model into a real app with FastAPI, Postgres, Docker and AWS so it actually ships.
 
 - 🏆 CS50 & CS50AI certified, and a regular on Kaggle
 - 🌎 Spanish (native), English (C1)
@@ -104,9 +104,9 @@ The companion mobile app to connect to your Allium server, fetch, and cache your
 
 My first major project — and the one that started everything. A full-featured POS system built from the ground up with Django, HTML, CSS, and vanilla JS.
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live-checkit.demo-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://checkitnow.com.mx)
+[![Legacy Demo](https://img.shields.io/badge/Live-checkit.demo-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](http://52.87.252.249/)
 
 </td>
 <td width="50%" valign="top">
@@ -244,6 +244,7 @@ A Next.js platform connecting users with verified domain experts. Browse, discov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="48" alt="DigitalOcean" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="48" alt="Railway" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="48" alt="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="48" alt="AWS" />
 </p>
 
 ---
