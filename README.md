@@ -89,7 +89,7 @@ The companion mobile app to connect to your Allium server, fetch, and cache your
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white)
 
-[![Allium App Repo](https://img.shields.io/badge/GitHub-Allium%20App-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/AlliumApp)
+![Allium App - In Progress](https://img.shields.io/badge/Allium%20App-In%20Progress-f59e0b?style=for-the-badge&logo=github)
 <!-- [![Play Store](https://img.shields.io/badge/Play%20Store-Visit-3DDC84?style=for-the-badge&logo=android&logoColor=white)]([blank]) -->
 
 </td>
