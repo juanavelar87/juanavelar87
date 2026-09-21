@@ -67,29 +67,29 @@ Real products solving real problems — shipped, deployed, and used in productio
 <img src="assets/projects/Allium server.webp" alt="Project image" width="150" />
 
 
-**Allium Server**<br>
+**Umbela Server**<br>
 2026
 
 A self-hosted Google Photos alternative that routes everything through the TOR network for full privacy and simplicity. Built as a Go CLI/GUI tool — you own your data, your server, your keys.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Cobra](https://img.shields.io/badge/-Cobra_CLI-000000?style=flat&logo=go&logoColor=36BCF7) ![Govips](https://img.shields.io/badge/-Govips-008080?style=flat&logo=go&logoColor=00ADD8) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Wails](https://img.shields.io/badge/-Wails-red?style=flat&logo=wails&logoColor=white)
 
-[![Allium Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/AlliumServer)
-[![Download](https://img.shields.io/badge/Download-Allium%20Server-36BCF7?style=for-the-badge&logo=download&logoColor=white)](https://github.com/juanavelar87/AlliumServer/tree/master/src)
+[![Umbela Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/UmbelaServer)
+[![Download](https://img.shields.io/badge/Download-Umbela%20Server-36BCF7?style=for-the-badge&logo=download&logoColor=white)](https://github.com/UmbelaPhotos/Umbela-Server/tree/master/src)
 
 </td>
 <td width="50%" valign="top">
 
 <img src="assets/projects/allium app.webp" alt="Project image" width="150" />
 
-**Allium App**<br>
+**Umbela App**<br>
 2026
 
-The companion mobile app to connect to your Allium server, fetch, and cache your images — all through TOR.
+The companion mobile app to connect to your Umbela server, fetch, and cache your images — all through TOR.
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white)
 
-![Allium App - In Progress](https://img.shields.io/badge/Allium%20App-In%20Progress-f59e0b?style=for-the-badge&logo=github)
+![Umbela App - In Progress](https://img.shields.io/badge/Umbela%20App-In%20Progress-f59e0b?style=for-the-badge&logo=github)
 <!-- [![Play Store](https://img.shields.io/badge/Play%20Store-Visit-3DDC84?style=for-the-badge&logo=android&logoColor=white)]([blank]) -->
 
 </td>
