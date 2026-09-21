@@ -74,7 +74,7 @@ A self-hosted Google Photos alternative that routes everything through the TOR n
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Cobra](https://img.shields.io/badge/-Cobra_CLI-000000?style=flat&logo=go&logoColor=36BCF7) ![Govips](https://img.shields.io/badge/-Govips-008080?style=flat&logo=go&logoColor=00ADD8) ![TOR](https://img.shields.io/badge/-TOR_Network-7D4698?style=flat&logo=tor-project&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Wails](https://img.shields.io/badge/-Wails-red?style=flat&logo=wails&logoColor=white)
 
-[![Umbela Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/juanavelar87/UmbelaServer)
+[![Umbela Server Repo](https://img.shields.io/badge/GitHub-Allium%20Server-181717?style=for-the-badge&logo=github)](https://github.com/UmbelaPhotos/Umbela-Server)
 [![Download](https://img.shields.io/badge/Download-Umbela%20Server-36BCF7?style=for-the-badge&logo=download&logoColor=white)](https://github.com/UmbelaPhotos/Umbela-Server/tree/master/src)
 
 </td>
